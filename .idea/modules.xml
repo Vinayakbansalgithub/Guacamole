@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guacamole-auth-cas.iml" filepath="$PROJECT_DIR$/guacamole-auth-cas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guacamole-auth-duo.iml" filepath="$PROJECT_DIR$/guacamole-auth-duo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guacamole-auth-header.iml" filepath="$PROJECT_DIR$/guacamole-auth-header.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guacamole-auth-ldap.iml" filepath="$PROJECT_DIR$/guacamole-auth-ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guacamole-auth-openid.iml" filepath="$PROJECT_DIR$/guacamole-auth-openid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guacamole-auth-quickconnect.iml" filepath="$PROJECT_DIR$/guacamole-auth-quickconnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guacamole-auth-totp.iml" filepath="$PROJECT_DIR$/guacamole-auth-totp.iml" />
+    </modules>
+  </component>
+</project>

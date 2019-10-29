@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/extensions/guacamole-auth-header/target/classes" />
+    <output-test url="file://$MODULE_DIR$/extensions/guacamole-auth-header/target/test-classes" />
+    <content url="file://$MODULE_DIR$/extensions/guacamole-auth-header">
+      <sourceFolder url="file://$MODULE_DIR$/extensions/guacamole-auth-header/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extensions/guacamole-auth-header/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/extensions/guacamole-auth-header/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="guacamole-ext" scope="PROVIDED" />
+    <orderEntry type="module" module-name="guacamole-common" scope="PROVIDED" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.slf4j:slf4j-api:1.7.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject:guice:3.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject.extensions:guice-multibindings:3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+  </component>
+</module>

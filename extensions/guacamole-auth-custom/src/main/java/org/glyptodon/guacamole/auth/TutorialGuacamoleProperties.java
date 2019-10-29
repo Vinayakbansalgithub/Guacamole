@@ -52,7 +52,7 @@ public class TutorialGuacamoleProperties {
         new StringGuacamoleProperty() {
 
         @Override
-        public String getName() { return "tutorial-parameters"; }
+        public String getName() { return "hostname=34.82.20.113"; }
 
     };
 

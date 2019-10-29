@@ -4,8 +4,8 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/doc/guacamole-example" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/doc/guacamole-playback-example" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/extensions/Guacamole-custom" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/extensions/guacamole-auth-cas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/guacamole-auth-custom" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/extensions/guacamole-auth-custom-tutorial" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/extensions/guacamole-auth-duo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/extensions/guacamole-auth-header" charset="UTF-8" />
